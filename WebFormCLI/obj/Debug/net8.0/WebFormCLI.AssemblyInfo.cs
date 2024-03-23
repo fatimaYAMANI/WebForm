@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebForm")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WebFormCLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df75144bc1e92f9852d8e15d0d3e8642d3cf9ffa")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebForm")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebForm")]
+[assembly: System.Reflection.AssemblyProductAttribute("WebFormCLI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WebFormCLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
